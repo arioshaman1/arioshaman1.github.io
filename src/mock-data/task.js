@@ -12,7 +12,7 @@ export const tasks = [
     {
         status: Status.DONE,
         tasks: ["Устроится на работу"]
-    },
+    }, 
     {
         status: Status.BASKET,
         tasks: ["Выучить React"]

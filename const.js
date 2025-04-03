@@ -12,4 +12,4 @@ const StatusLabel = {
     [Status.BASKET]: `Корзина`
 }
 
-export {Status, StatusLabel};
+export {Status, StatusLabel}; 
